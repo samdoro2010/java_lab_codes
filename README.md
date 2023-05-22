@@ -7,11 +7,11 @@
 
 
 ## All Java Codes Pdf file 
-[For Java PDF all codes CLICK HERE]()
+[For Java PDF all codes CLICK HERE](https://github.com/samdoro2010/java_lab_codes/blob/main/All%20java%20codes.pdf)
 
 
 ## All Java Codes replit file
-[1.AVERAGE OF NUMBERS](https://replit.com/@V-KrishnaKrishn/JAVA)
+[Click For Replit File](https://replit.com/@V-KrishnaKrishn/JAVA)
 
 
 ![Visitor Count](https://profile-counter.glitch.me/{samdoro2010}/count.svg)
